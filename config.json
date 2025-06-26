@@ -1,6 +1,6 @@
 {
   "architecture": {
-    "name": "财务域资金分析",
+    "name": "应用架构图",
     "children": [
       {
         "name": "数据采集域",
