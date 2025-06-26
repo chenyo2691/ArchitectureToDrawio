@@ -1,0 +1,116 @@
+{
+  "architecture": {
+    "name": "财务域资金分析",
+    "children": [
+      {
+        "name": "数据采集域",
+        "children": [
+          {
+            "name": "银行金融数据",
+            "children": [
+              { "name": "活期账户流水" },
+              { "name": "定期账户流水" },
+              { "name": "定期账户流水" },
+              { "name": "保证金账户流水" }
+            ]
+          },
+          {
+            "name": "企业内部数据",
+            "children": [
+              { "name": "总账科目数据" },
+              { "name": "应收应付数据1" },
+              { "name": "应收应付数据1" },
+              { "name": "应收应付数据2" },
+              { "name": "应收应付数据3" },
+              { "name": "应收应付数据4" },
+              { "name": "固定资产数据5" }
+            ]
+          },
+          {
+            "name": "外部监管数据",
+            "children": [
+              { "name": "增值税申报数据" },
+              { "name": "企业所得税数据" },
+              { "name": "附加税费数据" }
+            ]
+          },
+          {
+            "name": "外部监管数据",
+            "children": [
+              { "name": "增值税申报数据" },
+              { "name": "企业所得税数据" },
+              { "name": "附加税费数据" }
+            ]
+          }
+        ]
+      },
+      {
+        "name": "数据处理域",
+        "children": [
+          {
+            "name": "数据清洗转换",
+            "children": [{ "name": "缺失值处理" }, { "name": "数据标准化" }]
+          },
+          {
+            "name": "数据集成整合",
+            "children": [
+              { "name": "数据关联映射" },
+              { "name": "数据合并汇总" },
+              { "name": "数据仓库构建" }
+            ]
+          },
+          {
+            "name": "数据质量管控",
+            "children": [{ "name": "数据一致性维护" }]
+          },
+          {
+            "name": "数据质量管控1",
+            "children": [
+              { "name": "数据一致性维护1" },
+              { "name": "数据一致性维护1" }
+            ]
+          },
+          {
+            "name": "数据质量管控1",
+            "children": [
+              { "name": "数据一致性维护1" },
+              { "name": "数据一致性维护1" }
+            ]
+          },
+          {
+            "name": "数据质量管控1",
+            "children": [
+              { "name": "数据一致性维护1" },
+              { "name": "数据一致性维护1" }
+            ]
+          },
+          {
+            "name": "数据质量管控1",
+            "children": [
+              { "name": "数据一致性维护1" },
+              { "name": "数据一致性维护1" }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "layout": {
+    "primaryBoxPadding": 40,
+    "basePrimaryYGap": 10,
+    "secondaryXGap": 350,
+    "secondaryTitleHeight": 50,
+    "tertiaryXGap": 30,
+    "tertiaryYGap": 40,
+    "primaryColor": "#6495ed",
+    "secondaryColor": "#4a86e8",
+    "tertiaryColor": "#6495ed",
+    "boxColor": "#94a3b8",
+    "boxOpacity": "30",
+    "primaryFontSize": 24,
+    "secondaryFontSize": 18,
+    "tertiaryFontSize": 14,
+    "columnsThreshold": 5
+  },
+  "outputPath": "finance-architecture.drawio"
+}

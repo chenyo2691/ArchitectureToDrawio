@@ -1,0 +1,187 @@
+<mxfile host="Electron" modified="2025-06-25T15:23:18.309Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.1.2 Chrome/106.0.5249.199 Electron/21.4.3 Safari/537.36" etag="u8mIsxoCprOQ699C3vhv" version="21.1.2" type="device">
+  <diagram id="finance-fund-analysis-architecture" name="应用架构图">
+    <mxGraphModel dx="1727" dy="1010" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2" value="应用架构图" style="text;align=center;verticalAlign=middle;whiteSpace=wrap;html=1;fontSize=24;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="675" y="20" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="3" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#3498db" parent="1" vertex="1">
+          <mxGeometry x="200" y="60" width="1200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="4" value="配电网投入产出" style="text;align=left;verticalAlign=middle;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="250" y="85" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="5" value="全局总览" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1f0ff;strokeColor=#3498db;fontSize=14" parent="1" vertex="1">
+          <mxGeometry x="400" y="80" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="6" value="测算分析" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1f0ff;strokeColor=#3498db;fontSize=14" parent="1" vertex="1">
+          <mxGeometry x="600" y="80" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="7" value="对标评价" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1f0ff;strokeColor=#3498db;fontSize=14" parent="1" vertex="1">
+          <mxGeometry x="800" y="80" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="8" value="对比分析" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1f0ff;strokeColor=#3498db;fontSize=14" parent="1" vertex="1">
+          <mxGeometry x="1000" y="80" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="9" value="监测分析" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1f0ff;strokeColor=#3498db;fontSize=14" parent="1" vertex="1">
+          <mxGeometry x="1200" y="80" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="10" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#3498db" parent="1" vertex="1">
+          <mxGeometry x="200" y="150" width="1200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="11" value="运维检修成本效率" style="text;align=left;verticalAlign=middle;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="250" y="175" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="12" value="总览" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1f0ff;strokeColor=#3498db;fontSize=14" parent="1" vertex="1">
+          <mxGeometry x="400" y="170" width="480" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="13" value="经营洞察" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1f0ff;strokeColor=#3498db;fontSize=14" parent="1" vertex="1">
+          <mxGeometry x="900" y="170" width="480" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="14" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#3498db" parent="1" vertex="1">
+          <mxGeometry x="200" y="240" width="1200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="15" value="无人机巡检质效" style="text;align=left;verticalAlign=middle;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="250" y="265" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="16" value="无人机质效分析 - 省" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1f0ff;strokeColor=#3498db;fontSize=14" parent="1" vertex="1">
+          <mxGeometry x="400" y="260" width="480" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="17" value="无人机质效分析 - 市" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1f0ff;strokeColor=#3498db;fontSize=14" parent="1" vertex="1">
+          <mxGeometry x="900" y="260" width="480" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="18" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#3498db" parent="1" vertex="1">
+          <mxGeometry x="200" y="330" width="1200" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="19" value="业扩项目投入产出" style="text;align=left;verticalAlign=middle;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="250" y="385" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="20" value="综合概览" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1f0ff;strokeColor=#3498db;fontSize=14" parent="1" vertex="1">
+          <mxGeometry x="400" y="350" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="21" value="项目整体情况" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1f0ff;strokeColor=#3498db;fontSize=14" parent="1" vertex="1">
+          <mxGeometry x="600" y="350" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="22" value="项目风险监控" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1f0ff;strokeColor=#3498db;fontSize=14" parent="1" vertex="1">
+          <mxGeometry x="800" y="350" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="23" value="经济效益" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1f0ff;strokeColor=#3498db;fontSize=14" parent="1" vertex="1">
+          <mxGeometry x="1000" y="350" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="24" value="运行效益" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1f0ff;strokeColor=#3498db;fontSize=14" parent="1" vertex="1">
+          <mxGeometry x="1200" y="350" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="25" value="社会效益" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1f0ff;strokeColor=#3498db;fontSize=14" parent="1" vertex="1">
+          <mxGeometry x="400" y="410" width="980" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="26" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#3498db" parent="1" vertex="1">
+          <mxGeometry x="200" y="480" width="1200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="27" value="电能计量" style="text;align=left;verticalAlign=middle;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="250" y="505" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="28" value="电能表预算执行监测" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1f0ff;strokeColor=#3498db;fontSize=14" parent="1" vertex="1">
+          <mxGeometry x="400" y="500" width="313.3333333333333" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="29" value="库存电能表监测" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1f0ff;strokeColor=#3498db;fontSize=14" parent="1" vertex="1">
+          <mxGeometry x="733.3333333333333" y="500" width="313.3333333333333" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="30" value="在运电能表监测" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1f0ff;strokeColor=#3498db;fontSize=14" parent="1" vertex="1">
+          <mxGeometry x="1066.6666666666665" y="500" width="313.3333333333333" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="31" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#3498db" parent="1" vertex="1">
+          <mxGeometry x="200" y="570" width="1200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="32" value="台区资源投入产出" style="text;align=left;verticalAlign=middle;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="250" y="595" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="33" value="台区全景画像" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1f0ff;strokeColor=#3498db;fontSize=14" parent="1" vertex="1">
+          <mxGeometry x="400" y="590" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="34" value="单台区 - 投入产出" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1f0ff;strokeColor=#3498db;fontSize=14" parent="1" vertex="1">
+          <mxGeometry x="600" y="590" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="35" value="经营总览" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1f0ff;strokeColor=#3498db;fontSize=14" parent="1" vertex="1">
+          <mxGeometry x="800" y="590" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="36" value="台区线损管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1f0ff;strokeColor=#3498db;fontSize=14" parent="1" vertex="1">
+          <mxGeometry x="1000" y="590" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="37" value="台区业扩投入产出" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1f0ff;strokeColor=#3498db;fontSize=14" parent="1" vertex="1">
+          <mxGeometry x="1200" y="590" width="180" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="38" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#3498db" parent="1" vertex="1">
+          <mxGeometry x="200" y="660" width="1200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="39" value="研发投入产出" style="text;align=left;verticalAlign=middle;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="250" y="685" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="40" value="研发经费投入" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1f0ff;strokeColor=#3498db;fontSize=14" parent="1" vertex="1">
+          <mxGeometry x="400" y="680" width="313.3333333333333" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="41" value="科研项目实施过程" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1f0ff;strokeColor=#3498db;fontSize=14" parent="1" vertex="1">
+          <mxGeometry x="733.3333333333333" y="680" width="313.3333333333333" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="42" value="科研创新成果" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1f0ff;strokeColor=#3498db;fontSize=14" parent="1" vertex="1">
+          <mxGeometry x="1066.6666666666665" y="680" width="313.3333333333333" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="43" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#3498db" parent="1" vertex="1">
+          <mxGeometry x="200" y="750" width="1200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="44" value="外包业务优化" style="text;align=left;verticalAlign=middle;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="250" y="775" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="45" value="外包业务总览" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1f0ff;strokeColor=#3498db;fontSize=14" parent="1" vertex="1">
+          <mxGeometry x="400" y="770" width="313.3333333333333" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="46" value="外包成本" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1f0ff;strokeColor=#3498db;fontSize=14" parent="1" vertex="1">
+          <mxGeometry x="733.3333333333333" y="770" width="313.3333333333333" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="47" value="外包人员配置" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1f0ff;strokeColor=#3498db;fontSize=14" parent="1" vertex="1">
+          <mxGeometry x="1066.6666666666665" y="770" width="313.3333333333333" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="48" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#3498db" parent="1" vertex="1">
+          <mxGeometry x="200" y="840" width="1200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="49" value="支撑业务经营分析" style="text;align=left;verticalAlign=middle;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="250" y="865" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="50" value="多业务板块盈亏平衡分析与预警" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1f0ff;strokeColor=#3498db;fontSize=14" parent="1" vertex="1">
+          <mxGeometry x="400" y="860" width="313.3333333333333" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="51" value="施工项目精益管理" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1f0ff;strokeColor=#3498db;fontSize=14" parent="1" vertex="1">
+          <mxGeometry x="733.3333333333333" y="860" width="313.3333333333333" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="52" value="项目预算管理看板" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1f0ff;strokeColor=#3498db;fontSize=14" parent="1" vertex="1">
+          <mxGeometry x="1066.6666666666665" y="860" width="313.3333333333333" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="53" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#3498db" parent="1" vertex="1">
+          <mxGeometry x="200" y="930" width="1200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="54" value="重点领域风险防控" style="text;align=left;verticalAlign=middle;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="250" y="955" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="55" value="经营核价" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1f0ff;strokeColor=#3498db;fontSize=14" parent="1" vertex="1">
+          <mxGeometry x="400" y="950" width="313.3333333333333" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="56" value="国资监管风险防控" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1f0ff;strokeColor=#3498db;fontSize=14" parent="1" vertex="1">
+          <mxGeometry x="733.3333333333333" y="950" width="313.3333333333333" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="57" value="业务规范风险防控" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1f0ff;strokeColor=#3498db;fontSize=14" parent="1" vertex="1">
+          <mxGeometry x="1066.6666666666665" y="950" width="313.3333333333333" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="58" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;strokeColor=#3498db" parent="1" vertex="1">
+          <mxGeometry x="200" y="1020" width="1200" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="59" value="提质增效看板" style="text;align=left;verticalAlign=middle;whiteSpace=wrap;html=1;fontSize=16;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="250" y="1045" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="60" value="提质增效看板" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e1f0ff;strokeColor=#3498db;fontSize=14" parent="1" vertex="1">
+          <mxGeometry x="400" y="1040" width="980" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

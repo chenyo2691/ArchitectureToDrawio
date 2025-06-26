@@ -1,0 +1,104 @@
+{
+  "title": "应用架构图",
+  "level1": [
+    {
+      "name": "配电网投入产出",
+      "children": [
+        { "name": "全局总览" },
+        { "name": "测算分析" },
+        { "name": "对标评价" },
+        { "name": "对比分析" },
+        { "name": "监测分析" }
+      ]
+    },
+    {
+      "name": "运维检修成本效率",
+      "children": [{ "name": "总览" }, { "name": "经营洞察" }]
+    },
+    {
+      "name": "无人机巡检质效分析",
+      "children": [
+        { "name": "无人机质效分析 - 省" },
+        { "name": "无人机质效分析 - 市" }
+      ]
+    },
+    {
+      "name": "业扩项目投入产出",
+      "children": [
+        { "name": "综合概览" },
+        { "name": "项目整体情况" },
+        { "name": "项目风险监控" },
+        { "name": "经济效益" },
+        { "name": "运行效益" },
+        { "name": "社会效益" }
+      ]
+    },
+    {
+      "name": "电能计量",
+      "children": [
+        { "name": "电能表预算执行监测" },
+        { "name": "库存电能表监测" },
+        { "name": "在运电能表监测" }
+      ]
+    },
+    {
+      "name": "台区资源投入产出",
+      "children": [
+        { "name": "台区全景画像" },
+        { "name": "单台区 - 投入产出" },
+        { "name": "经营总览" },
+        { "name": "台区线损管理" },
+        { "name": "台区业扩投入产出" }
+      ]
+    },
+    {
+      "name": "研发投入产出",
+      "children": [
+        { "name": "研发经费投入" },
+        { "name": "科研项目实施过程" },
+        { "name": "科研创新成果" }
+      ]
+    },
+    {
+      "name": "外包业务优化",
+      "children": [
+        { "name": "外包业务总览" },
+        { "name": "外包成本" },
+        { "name": "外包人员配置" }
+      ]
+    },
+    {
+      "name": "支撑业务经营分析",
+      "children": [
+        { "name": "多业务板块盈亏平衡分析与预警" },
+        { "name": "施工项目精益管理" },
+        { "name": "项目预算管理看板" }
+      ]
+    },
+    {
+      "name": "重点领域风险防控",
+      "children": [
+        { "name": "经营核价" },
+        { "name": "国资监管风险防控" },
+        { "name": "业务规范风险防控" }
+      ]
+    },
+    {
+      "name": "提质增效看板",
+      "children": [{ "name": "-" }]
+    }
+  ],
+  "config": {
+    "titleFontSize": 24,
+    "level1FontSize": 16,
+    "nodeFontSize": 14,
+    "nodeWidth": 180,
+    "nodeHeight": 40,
+    "levelPadding": 80,
+    "nodePadding": 20,
+    "connectionStyle": "endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;entryX=0;entryY=0.5",
+    "framePadding": 50,
+    "maxNodesPerRow": 5,
+    "lastRowFillWidth": true
+  }
+}
